@@ -8,6 +8,7 @@ class Message:
         self.letter3 = letter3
         self.letter4 = letter4    
 
+# Encipher a letter by a given offset
 def encipher_letter(letter, offset):
     offset = offset % NUM_ALPHAS + NUM_ALPHAS
     if letter >= 'a' and letter <= 'z':
@@ -15,6 +16,7 @@ def encipher_letter(letter, offset):
     else:
         return chr(ord('A') + (ord(letter) - ord('A') + offset) % NUM_ALPHAS)
 
+# Decipher a letter by a given offset
 def decipher_letter(letter, offset):
     offset = offset % NUM_ALPHAS - NUM_ALPHAS
     if letter >= 'a' and letter <= 'z':
@@ -22,6 +24,7 @@ def decipher_letter(letter, offset):
     else:
         return chr(ord('A') + (ord(letter) - ord('A') - offset) % NUM_ALPHAS)
 
+# Encipher a message
 def encipher(msg):
     offsets = input("Enter the numbers to encipher by: ").split()
     offsets = [int(offset) for offset in offsets]
@@ -29,6 +32,7 @@ def encipher(msg):
     return encipher_letter(msg.letter1, offsets[0]) + encipher_letter(msg.letter2, offsets[1])\
     + encipher_letter(msg.letter3, offsets[2]) + encipher_letter(msg.letter4, offsets[3])
 
+# Decipher a message
 def decipher(msg):
     offsets = input("Enter the numbers to decipher by: ").split()
     offsets = [int(offset) for offset in offsets]
