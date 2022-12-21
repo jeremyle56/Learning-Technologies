@@ -23,3 +23,12 @@ Lab XX links to the problem set, individual problems linkes to solutions.
 - [Using class arrays to record the results of a Formula One race](lab04/race_results.py)
 - [Refactoring code](lab04/weather_prediction.py)
 - [Create a simple calculator, reading different numbers of integers](lab04/cs_calculator.py)
+
+## [Lab 05](https://cgi.cse.unsw.edu.au/~cs1511/22T3/lab/05/questions)
+- [Devowelling Text](lab05/devowel.py)
+- [Word Square](lab05/word_square.py)
+- [Prepare a Checkerboard](lab05/prep_checkerboard.py)
+- [Modifying the case of letters in a string](lab05/alternating_case.py)
+- [Advanced Addition](lab05/advanced_addition.py)
+- [Remove Duplicates from an Array](lab05/remove_duplicates_function.py)
+- [Find the Largest Sum of NUmbers in a Z Shape](lab05/largest_z_sum.py)
