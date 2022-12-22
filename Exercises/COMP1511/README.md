@@ -1,6 +1,6 @@
 # UNSW COMP1511 22T3
 
-Lab XX links to the problem set, individual problems linkes to solutions.
+Lab XX links to the problem set, individual problems links to solutions.
 
 ## [Lab 02](https://cgi.cse.unsw.edu.au/~cs1511/22T3/lab/02/questions)
 - [Procedeers](lab02/print_deer.py)
@@ -32,3 +32,9 @@ Lab XX links to the problem set, individual problems linkes to solutions.
 - [Advanced Addition](lab05/advanced_addition.py)
 - [Remove Duplicates from an Array](lab05/remove_duplicates_function.py)
 - [Find the Largest Sum of NUmbers in a Z Shape](lab05/largest_z_sum.py)
+
+## [Lab 07](https://cgi.cse.unsw.edu.au/~cs1511/22T3/lab/07/questions)
+- [Calculate sum and product of values in an array](lab07/array_sum_prod.py)
+- [Encrypting Text with a Caesar Cipher](lab07/caesar.py)
+- [Encrypting Text with a Substitution Cipher](lab07/substitution.py)
+- [Decrypting a Substitution Cipher](lab07/decode.py)
