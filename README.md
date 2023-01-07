@@ -6,3 +6,4 @@ A repository full of exercises I did to help me learn and get comfortable with t
     - [Ramen Web Page](https://jeremyle56.github.io/Learning-MERN-Stack/CSESoc_Open_Dev/HTML_CSS_Javascript/Exercises/index.html)
 - [ReactJS](./CSESoc_Open_Dev/React/)
     - [Counter + Capital Finder](./CSESoc_Open_Dev/React/Exercises/part1/) (not deployed, run with npm start)
+    - [Country Card](./CSESoc_Open_Dev/React/Exercises/part2/) (not styled, not deployed, run with npm start)
