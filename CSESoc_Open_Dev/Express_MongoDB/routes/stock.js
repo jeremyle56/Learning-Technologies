@@ -20,8 +20,7 @@ stockRouter.post('/addItem', async (req, res) => {
 })
 
 stockRouter.put('/update', async (req, res) => {
-    await db.getStockCollection().deleteMany({})
-    await db.getStockCollection().insert(req.body)
+    await db.getStockCollection().remove({}).insert(req.body)
     res.send('Data updated')
 })
 

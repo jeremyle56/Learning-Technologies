@@ -7,3 +7,4 @@ A repository full of exercises I did to help me learn and get comfortable with t
 - [ReactJS](./CSESoc_Open_Dev/React/)
     - [Counter + Capital Finder](./CSESoc_Open_Dev/React/Exercises/part1/) (not deployed, run with npm start)
     - [Country Card](./CSESoc_Open_Dev/React/Exercises/part2/) (not styled, not deployed, run with npm start)
+- [ExpressJS & MongoDB](./CSESoc_Open_Dev/Express_MongoDB/)
