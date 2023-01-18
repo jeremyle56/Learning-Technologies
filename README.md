@@ -6,3 +6,5 @@ A repository full of exercises I did to help me learn and get comfortable with P
     - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) 
 2. Exercises - Practice Problems
     - [UNSW COMP1511](https://cgi.cse.unsw.edu.au/~cs1511/22T3/) in Python
+3. Data Structures and Algorithms
+    - Syntax from ChatGPT
