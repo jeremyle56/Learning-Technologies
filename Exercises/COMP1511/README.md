@@ -47,3 +47,9 @@ Lab XX links to the problem set, individual problems links to solutions.
 - [Insert an element at the tail of a Linked List](lab08/list_insert_tail.py)
 - [Insert into the nth position in a Linked List](lab08/list_insert_nth.py)
 - [Reverse a Linked List](lab08/list_reverse.py)
+
+## [Lab 09](https://cgi.cse.unsw.edu.au/~cs1511/22T3/lab/09/questions)
+- [Check whether a Linked List is in Increasing Order](lab09/list_increasing.py)
+- [Delete First Element from a Linked List](lab09/list_delete_first.py)
+- [Get the middle element from a Linked List](lab09/list_get_middle.py)
+- [Delete First Element Containing A Value from a Linked List](lab09/list_delete_contains.py)
