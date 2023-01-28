@@ -38,3 +38,12 @@ Lab XX links to the problem set, individual problems links to solutions.
 - [Encrypting Text with a Caesar Cipher](lab07/caesar.py)
 - [Encrypting Text with a Substitution Cipher](lab07/substitution.py)
 - [Decrypting a Substitution Cipher](lab07/decode.py)
+
+## [Lab 08](https://cgi.cse.unsw.edu.au/~cs1511/22T3/lab/08/questions)
+- [Print out the elements of a Linked List](lab08/list_print.py)
+- [Find the length of a Linked List](lab08/list_length.py)
+- [Insert an element at the head of a Linked List](lab08/list_insert_head.py)
+- [Find an element in a Linked List](lab08/list_contains.py)
+- [Insert an element at the tail of a Linked List](lab08/list_insert_tail.py)
+- [Insert into the nth position in a Linked List](lab08/list_insert_nth.py)
+- [Reverse a Linked List](lab08/list_reverse.py)
