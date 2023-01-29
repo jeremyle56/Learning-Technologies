@@ -53,3 +53,6 @@ Lab XX links to the problem set, individual problems links to solutions.
 - [Delete First Element from a Linked List](lab09/list_delete_first.py)
 - [Get the middle element from a Linked List](lab09/list_get_middle.py)
 - [Delete First Element Containing A Value from a Linked List](lab09/list_delete_contains.py)
+- [Remove the Highest Elements](lab09/list_delete_highest.py)
+- [Determine whether a list of lists contains a diagonal line of identical values](lab09/lists_diagonal.py)
+- [Play the Game of Chairs. Win or die.](lab09/musical_chairs.py)
