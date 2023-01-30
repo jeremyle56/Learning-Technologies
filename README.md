@@ -10,3 +10,5 @@ A repository full of exercises I did to help me learn and get comfortable with P
     - Syntax from ChatGPT
 4. NumPy
     - [freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+5. Flask
+    - [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t)
