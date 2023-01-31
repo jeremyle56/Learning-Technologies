@@ -56,7 +56,7 @@ exit()
     $ heroku login
     $ pip3 install gunicorn
     ```
-    - Create a file called `Procfile` and add the following `web:guincorn app:<app-file-name>`
+    - Create a file called `Procfile` and add the following `web:guincorn app:<app-filename>`
     ```
     $ pip3 freeze > requirements.txt
     ```
