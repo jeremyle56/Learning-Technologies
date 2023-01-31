@@ -52,10 +52,16 @@ exit()
 - To run the app `python3 app.py`
 - Deploying to heroku:
     - Download Heroku CLI (command line interface)
-    - In terminal run `heroku login`
-    - `pip3 install gunicorn`
-    - `touch Procfile` -> add `web:gunicorn app:app`
-    - `pip3 freeze > requirements.txt`
+    ``` 
+    $ heroku login
+    $ pip3 install gunicorn
+    ```
+    - Create a file called `Procfile` and add the following `web:guincorn app:<app-file-name>`
+    ```
+    $ pip3 freeze > requirements.txt
+    ```
     - Create git repository, add and commits files
-    - `heroku create application-name`
-    - `git push heroku master`
+    ```
+    $ heroku create application-name
+    $ git push heroku master
+    ```
