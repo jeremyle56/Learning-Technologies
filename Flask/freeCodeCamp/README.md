@@ -33,7 +33,7 @@ if __name__ == "__main__":
     app.run(debug=True, port=<desired port>)
 ```
 
-Notes:
+## Notes:
 - Make sure you have the following installed
     - Globally:
         - Python
