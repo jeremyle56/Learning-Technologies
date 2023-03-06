@@ -11,3 +11,5 @@ A repository full of exercises I did to help me learn and get comfortable with t
 
 ## 2. [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 ## 3. [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+## 4. CSESoc Trainee Workshop
+- [JavaScript](./CSESoc_Trainee_Workshop/JavaScript/)
