@@ -17,5 +17,5 @@ A repository full of tutorials and exercises I did to help me learn and get comf
 - [Fetch, Async/Await, Node & NPM](./CSESoc_Trainee_Workshop/Workshop_2/)
 - [React](./CSESoc_Trainee_Workshop/Workshop_3/)
 
-## 5. [Tailwind CSS]((https://www.youtube.com/watch?v=pfaSUYaSgRo))
+## 5. [Tailwind CSS](https://www.youtube.com/watch?v=pfaSUYaSgRo)
 - [Discord Clone](./Tailwind_CSS/discord_clone/) (not deployed, run with npm start)
