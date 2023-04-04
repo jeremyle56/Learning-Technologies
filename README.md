@@ -10,8 +10,12 @@ A repository full of tutorials and exercises I did to help me learn and get comf
 - [ExpressJS & MongoDB](./CSESoc_Open_Dev/Express_MongoDB/)
 
 ## 2. [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
 ## 3. [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 ## 4. CSESoc Trainee Workshop
 - [JavaScript Basics](./CSESoc_Trainee_Workshop/Workshop_1/)
 - [Fetch, Async/Await, Node & NPM](./CSESoc_Trainee_Workshop/Workshop_2/)
 - [React](./CSESoc_Trainee_Workshop/Workshop_3/)
+
+## 5. Tailwind CSS
+- [Fireship](https://www.youtube.com/watch?v=pfaSUYaSgRo)
