@@ -1,0 +1,14 @@
+{
+  "name": "workshop_3",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "esbuild src/index.jsx --bundle --outdir=dist"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.11"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
